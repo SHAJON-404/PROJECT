@@ -1,1 +1,0 @@
-[FBAN/{fban};FBAV/{fbav};FBBV/{fbbv};FBDM/{{density=3.0,width=1080,height=1920}};FBLC/Airtel;FBRV/{fbrv};FBCR/{fbcr};FBMF/samsung;FBBD/samsung;FBPN/{fbpn};FBDV/{uax_md};FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
